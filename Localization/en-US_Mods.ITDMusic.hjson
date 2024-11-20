@@ -2,13 +2,15 @@ SongNames: {
 	BlueshroomGroves: Blueshroom Groves (Surface)
 	WanderingTheBlueshrooms: Wandering the Blueshrooms
 	DuneBearer: Dune Bearer
-	DreadfulDunes: Dreadful Dunes
-	InterstellarInvertebrate: Interstellar Invertebrate
+	DeepDesert: Deep Desert
+	CosmicJellyfish: Cosmic Jellyfish
 	Gravekeeper: Gravekeeper
 	WOMR: W.O.M.R.
+	Maw: Maw
 }
 
 AuthorNames: {
 	qAngel: by qAngel
 	Bluestarr: by Rygel Bluestar
+	Microengine: by Microengine
 }
