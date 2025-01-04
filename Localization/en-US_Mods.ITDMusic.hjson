@@ -1,16 +1,21 @@
 SongNames: {
+	// Some of the song keys are named after old themes, don't mind this.
+	// For future additions, keep the key names as general and descriptive as possible.
+	// Example, for, let's say, Thalassateus' theme, just name the music file Thalassateus, not the title of the music.
+	// This will make it less confusing if there are any songs that are placeholders or are otherwise going to be replaced.
 	BlueshroomGroves: Blueshroom Groves (Surface)
 	WanderingTheBlueshrooms: Wandering the Blueshrooms
-	DuneBearer: Dune Bearer
-	DeepDesert: Deep Desert
-	CosmicJellyfish: Cosmic Jellyfish
-	Gravekeeper: Gravekeeper
+	DuneBearer: Tough Fossil
+	DeepDesert: Treacherous Sands
+	CosmicJellyfish: Jammin' Cosmos
+	Gravekeeper: Gravely Fated
 	WOMR: W.O.M.R.
-	Maw: Maw
+	Maw: Long Forgotten Tremors
+	AlphaMenu: Brilliant Depths
 }
 
 AuthorNames: {
 	qAngel: by qAngel
-	Bluestarr: by Rygel Bluestar
+	Bluestarr: by Falterygel
 	Microengine: by Microengine
 }

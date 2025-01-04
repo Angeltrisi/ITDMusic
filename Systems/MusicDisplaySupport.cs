@@ -22,12 +22,13 @@ namespace ITDMusic.Systems
 
             AddMusic("BlueshroomGroves", "qAngel");
             AddMusic("WanderingTheBlueshrooms", "Bluestarr");
-            AddMusic("DuneBearer", "Bluestarr");
+            AddMusic("DuneBearer", "Microengine");
             AddMusic("DeepDesert", "Microengine");
             AddMusic("CosmicJellyfish", "Microengine");
             AddMusic("Gravekeeper", "Microengine");
             AddMusic("WOMR", "Bluestarr");
             AddMusic("Maw", "Microengine");
+            AddMusic("AlphaMenu", "Microengine"); // "errmmmm, but q, nobody's gonna see this 🤓" but what if we decide to pull a calamity and add music boxes?!?!?
         }
     }
 }
