@@ -13,15 +13,18 @@ namespace ITDMusic
         public static ITDMusic Instance;
         public ITDMusic() => Instance = this;
         internal Mod musicDisplay = null;
+        internal Mod ITD = null;
         public override void Load()
         {
             musicDisplay = null;
             ModLoader.TryGetMod("MusicDisplay", out musicDisplay);
+            ModLoader.TryGetMod("ITD", out ITD);
         }
         public override void Unload()
         {
             Instance = null;
             musicDisplay = null;
+            ITD = null;
         }
     }
 }
